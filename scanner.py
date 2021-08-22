@@ -54,6 +54,7 @@ def display():
     print("\n\n\t---------------Detailed Review ------------\n\n\t")
     del folders[0]
     print(f"Folders Found => {folders}")
+    print("Thanks for using")
 
 pathInput()
 display()
