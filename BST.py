@@ -59,18 +59,18 @@ root = BST(10)
 root.insert(2)
 root.insert(21)
 root.traversal()
-print("---------level1----------")
+print("---------level1st----------")
 
 
 root.insert(0)
 root.insert(15)
 root.insert(7)
 root.traversal()
-print("---------level2----------")
+print("---------level2nd----------")
 
 root.insert(4)
 root.traversal()
-print("---------level3----------")
+print("---------level3rd----------")
 
 
 # root.search(3)
